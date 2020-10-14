@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82d16887-2e93-44f9-9dad-66f91e73ee5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/82/af013bf4/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/f3/63f8590d/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/5f/be69c1d2/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PerlinNoise/Skybox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Terrain/TerrainMovingAverage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/e5/fe5bcb6d/Cursor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/9d/37065501/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E7D46BD9-BA66-459C-8357-8B959C2A5102/28/146f764f/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Solar system/SolarSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/f2/fef6212b/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD41BAF3-F1FC-4312-8328-C0E6D6F59798/4d/d621d1b5/TerrainLayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/74/b128d6d4/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boat/BoatPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/db/6d9c3004/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38B19601-63D5-404A-ACB4-C5CCCDE2E18B/31/49acff7e/Component.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeDataGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MazeConstructor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshMazeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boat/PerlinNoiseGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boat/PerlinNoise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Boat/BoatPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/PerlinNoise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/PerlinNoiseTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/PerlinNoise2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/PerlinNoise3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/Skybox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTextureGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/CloudsTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PerlinNoise/CloudsTextureApplyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTexture_nope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/NewUnlitShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/SkyBoxChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTextureApplier_nope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/Путуешсы.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/Genetics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/IslandsFragmenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/NoiseTerrainInspector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/TestTerrainCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/TerrainWindowCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/TerrainMovingAverageCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTextureCustomMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/IslandsSquisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/CustomEditors/TerrainSquacherCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solar system/SolarSystemCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solar system/PLanet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solar system/Sun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/IslandsSquasher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solar system/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solar system/SolarSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/DiamondSquare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/TerrainTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Terrain/TerrainMovingAverage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FpsMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wood/WoodenTextureApplier.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i3AQST19xXyFdlS3Zj074nOPRD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34971997" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29993778" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="DiamondSquare.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <option name="CLASS_NAME" value="DiamondSquare" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="TerrainTest.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <option name="CLASS_NAME" value="TerrainTest" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.DiamondSquare.Main" />
+        <item itemvalue=".NET Static Method.TerrainTest.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d16887-2e93-44f9-9dad-66f91e73ee5c" name="Default Changelist" comment="" />
+      <created>1601125894888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601125894888</updated>
+      <workItem from="1601125916947" duration="1997000" />
+      <workItem from="1601285491517" duration="2403000" />
+      <workItem from="1601297612514" duration="2307000" />
+      <workItem from="1601404093451" duration="7260000" />
+      <workItem from="1601459422300" duration="30919000" />
+      <workItem from="1601724565360" duration="6969000" />
+      <workItem from="1601854238908" duration="15795000" />
+      <workItem from="1601935177375" duration="43907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom" timestamp="1602070354815">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354815" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center" timestamp="1602070354813">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354813" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left" timestamp="1602070354812">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354812" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right" timestamp="1602070354814">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354814" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1602070354817">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354817" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1602070354816">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354816" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1602070354816">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354816" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1602070354817">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354817" />
+    <state width="1638" height="354" key="GridCell.Tab.2.bottom" timestamp="1602070354819">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354819" />
+    <state width="1638" height="354" key="GridCell.Tab.2.center" timestamp="1602070354819">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354819" />
+    <state width="1638" height="354" key="GridCell.Tab.2.left" timestamp="1602070354818">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354818" />
+    <state width="1638" height="354" key="GridCell.Tab.2.right" timestamp="1602070354819">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354819" />
+    <state width="1638" height="354" key="GridCell.Tab.3.bottom" timestamp="1602070354821">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.3.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354821" />
+    <state width="1638" height="354" key="GridCell.Tab.3.center" timestamp="1602070354821">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.3.center/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354821" />
+    <state width="1638" height="354" key="GridCell.Tab.3.left" timestamp="1602070354821">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.3.left/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354821" />
+    <state width="1638" height="354" key="GridCell.Tab.3.right" timestamp="1602070354821">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.3.right/0.23.1680.1027@0.23.1680.1027" timestamp="1602070354821" />
+    <state x="-100" y="145" key="SettingsEditor" timestamp="1602018134188">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-100" y="145" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1602018134188" />
+    <state x="100" y="123" width="1480" height="827" key="VCS.FileHistoryDialog" timestamp="1602005439004">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="VCS.FileHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602005439004" />
+    <state x="503" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1602047409837">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="503" y="248" width="672" height="678" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1602047409837" />
+  </component>
+</project>
