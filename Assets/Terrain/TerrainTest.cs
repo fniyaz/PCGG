@@ -23,7 +23,8 @@ public class TerrainTest : MonoBehaviour
     {
         WhiteNoise,
         SmoothstepWhiteNoise,
-        Constant
+        Constant,
+        CurrentTerrain
     }
     
     
@@ -73,7 +74,8 @@ public class TerrainTest : MonoBehaviour
                 calculateTerrainNoise(ref heights);
                 break;
             case TerrainGeneratorType.DiamondSquare:
-                calculateTerrainDS(ref heights);
+                var oldVals = terrainData.GetHeights(0, 0, heightmapWidth, heightmapHeight);
+                calculateTerrainDS(ref heights, ref oldVals);
                 break;
         }
 
@@ -97,7 +99,7 @@ public class TerrainTest : MonoBehaviour
             heights[x, y] = (noise.at(x / fscale, y / fscale) / 0.5f + 1) / 2;
     }
 
-    private void calculateTerrainDS(ref float[,] heights)
+    private void calculateTerrainDS(ref float[,] heights, ref float[,] oldVals)
     {
         var copy = new float[heights.GetLength(0) - 1, heights.GetLength(1) - 1];
         var size = 64;
@@ -114,6 +116,9 @@ public class TerrainTest : MonoBehaviour
                     break;
                 case DiamondSquareInitial.SmoothstepWhiteNoise:
                     copy[x, y] = smoothstep(Random.Range(0, 1f));
+                    break;
+                case DiamondSquareInitial.CurrentTerrain:
+                    copy[x, y] = oldVals[x, y];
                     break;
             }
         }
