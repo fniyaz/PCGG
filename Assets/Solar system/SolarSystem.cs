@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class SolarSystem : MonoBehaviour
@@ -22,6 +23,8 @@ public class SolarSystem : MonoBehaviour
         Color.blue,
         Color.Lerp(Color.blue, Color.red, 0.7f)
     };
+
+    public Material asteroidMaterial;
     
     internal void generate()
     {
@@ -51,6 +54,18 @@ public class SolarSystem : MonoBehaviour
             generatePlanet(sun, $"Planet {i+1}", size, position, availableColors[c1i], availableColors[c2i],
                 Random.Range(minSpeed, maxSpeed));
         }
+
+        var asters = new GameObject("Asteroids");
+        asters.tag = "Generated planet";
+        asters.transform.SetParent(transform, false);
+        
+        for (int i = 0; i < 100; i++)
+        {
+            var distance = Random.Range(notLessThan * .45f, notLessThan * .55f);
+            var position = Vector3.right * distance;
+            
+            generateAsteroid(asters, $"Asteroid {i+1}", position); 
+        }
     }
     
     private GameObject generatePlanet(GameObject sun, string name, float size, Vector3 position, Color c1, Color c2, float angleSPeed)
@@ -70,11 +85,48 @@ public class SolarSystem : MonoBehaviour
         return planet;
     }
 
+    private GameObject generateAsteroid(GameObject parent, string name, Vector3 position)
+    {
+        var asteroid = new GameObject();
+        asteroid.name = name;
+        asteroid.tag = "Generated planet";
+        
+        asteroid.transform.parent = parent.transform;
+        asteroid.transform.localPosition = position;
+        asteroid.transform.RotateAround(parent.transform.position, Vector3.up, Random.Range(0, 360));
+
+        var comp = asteroid.AddComponent<Asteroid>();
+        comp.radius = 0.025f;
+        comp.distortion = 0.025f;
+        comp.material = asteroidMaterial;
+        comp.angleSpeed = 0.3f;
+        comp.run();
+
+        return asteroid;
+    }
+
     private void clear()
     {
         foreach (var planet in GameObject.FindGameObjectsWithTag("Generated planet"))
         {
             DestroyImmediate(planet);
+        }
+    }
+}
+
+[CustomEditor(typeof(SolarSystem))]
+public class SolarSystemCustomEditor: Editor
+{
+    public override void OnInspectorGUI()
+    {
+        base.OnInspectorGUI();
+
+        var system = target as SolarSystem;
+        Debug.Assert(system != null, nameof(system) + " != null");
+
+        if (GUILayout.Button("generate"))
+        {
+            system.generate();
         }
     }
 }

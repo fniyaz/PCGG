@@ -661,7 +661,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1611812661}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 32.064, z: 0}
+  m_LocalPosition: {x: 0, y: 8.448, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 817229711}
@@ -761,9 +761,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e860515f6b72d417183fce303f61b944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seaLevel: 0.501
+  seaLevel: 0.132
   noiseRandomScale: 8
-  DSRandomLevel: 0.059
+  DSRandomLevel: 0.044
   DSInitialValues: 3
   plane: {fileID: 1611812661}
 --- !u!114 &1686276219
@@ -778,7 +778,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da8576f333bab4a18b8c413149c427e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  windowingLevel: 2
+  windowingLevel: 1
 --- !u!114 &1686276220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -791,8 +791,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2f05a76407f46f5bf0d664faea618af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scale: 1
-  power: 2
+  scale: 1.5
+  power: 0.5
 --- !u!28 &1863264457
 Texture2D:
   m_ObjectHideFlags: 0
